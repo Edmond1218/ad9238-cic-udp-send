@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file
+   path="simulation/submodules/mentor/asj_nco_madx_cen.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="modelsim" />
+ <file
+   path="simulation/submodules/aldec/asj_nco_madx_cen.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="riviera" />
+ <file
+   path="simulation/submodules/mentor/asj_nco_mady_cen.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="modelsim" />
+ <file
+   path="simulation/submodules/aldec/asj_nco_mady_cen.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="riviera" />
+ <file
+   path="simulation/submodules/mentor/asj_nco_isdr.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="modelsim" />
+ <file
+   path="simulation/submodules/aldec/asj_nco_isdr.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="riviera" />
+ <file
+   path="simulation/submodules/mentor/asj_nco_apr_dxx.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="modelsim" />
+ <file
+   path="simulation/submodules/aldec/asj_nco_apr_dxx.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="riviera" />
+ <file
+   path="simulation/submodules/mentor/asj_nco_mob_w.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="modelsim" />
+ <file
+   path="simulation/submodules/aldec/asj_nco_mob_w.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="riviera" />
+ <file
+   path="simulation/submodules/mentor/asj_dxx_g.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="modelsim" />
+ <file
+   path="simulation/submodules/aldec/asj_dxx_g.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="riviera" />
+ <file
+   path="simulation/submodules/mentor/asj_dxx.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="modelsim" />
+ <file
+   path="simulation/submodules/aldec/asj_dxx.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="riviera" />
+ <file
+   path="simulation/submodules/mentor/asj_nco_as_m_dp_cen.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="modelsim" />
+ <file
+   path="simulation/submodules/aldec/asj_nco_as_m_dp_cen.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="riviera" />
+ <file
+   path="simulation/submodules/mentor/asj_nco_as_m_cen.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="modelsim" />
+ <file
+   path="simulation/submodules/aldec/asj_nco_as_m_cen.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="riviera" />
+ <file
+   path="simulation/submodules/mentor/asj_altqmcpipe.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="modelsim" />
+ <file
+   path="simulation/submodules/aldec/asj_altqmcpipe.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="riviera" />
+ <file
+   path="simulation/submodules/mentor/asj_gam_dp.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="modelsim" />
+ <file
+   path="simulation/submodules/aldec/asj_gam_dp.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="riviera" />
+ <file
+   path="simulation/submodules/mentor/asj_nco_derot.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="modelsim" />
+ <file
+   path="simulation/submodules/aldec/asj_nco_derot.v"
+   type="VERILOG_ENCRYPT"
+   library="nco_ii_0"
+   simulator="riviera" />
+ <file
+   path="simulation/submodules/nco0_nco_ii_0_sin_c.hex"
+   type="HEX"
+   library="nco_ii_0" />
+ <file
+   path="simulation/submodules/nco0_nco_ii_0_cos_c.hex"
+   type="HEX"
+   library="nco_ii_0" />
+ <file
+   path="simulation/submodules/nco0_nco_ii_0_sin_f.hex"
+   type="HEX"
+   library="nco_ii_0" />
+ <file
+   path="simulation/submodules/nco0_nco_ii_0_cos_f.hex"
+   type="HEX"
+   library="nco_ii_0" />
+ <file
+   path="simulation/submodules/nco0_nco_ii_0.v"
+   type="VERILOG"
+   library="nco_ii_0" />
+ <file
+   path="simulation/submodules/nco0_nco_ii_0_tb.vhd"
+   type="OTHER"
+   library="nco_ii_0" />
+ <file
+   path="simulation/submodules/c_model/model_wrapper.cpp"
+   type="OTHER"
+   library="nco_ii_0" />
+ <file
+   path="simulation/submodules/c_model/nco_model.cpp"
+   type="OTHER"
+   library="nco_ii_0" />
+ <file
+   path="simulation/submodules/c_model/nco_model.h"
+   type="OTHER"
+   library="nco_ii_0" />
+ <file path="simulation/nco0.v" type="VERILOG" />
+ <topLevel name="nco0" />
+ <deviceFamily name="cycloneive" />
+</simPackage>

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Jul 28 22:33:04 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : adcudp
+Top-level Entity Name : adcudp
+Family : Cyclone IV E
+Device : EP4CE30F23C8
+Timing Models : Final
+Total logic elements : 15,254 / 28,848 ( 53 % )
+    Total combinational functions : 11,221 / 28,848 ( 39 % )
+    Dedicated logic registers : 11,904 / 28,848 ( 41 % )
+Total registers : 12014
+Total pins : 109 / 329 ( 33 % )
+Total virtual pins : 0
+Total memory bits : 169,848 / 608,256 ( 28 % )
+Embedded Multiplier 9-bit elements : 116 / 132 ( 88 % )
+Total PLLs : 2 / 4 ( 50 % )
